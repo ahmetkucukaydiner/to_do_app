@@ -1,0 +1,14 @@
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\bin\Debug\netcoreapp3.1\todo_app.exe
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\bin\Debug\netcoreapp3.1\todo_app.deps.json
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\bin\Debug\netcoreapp3.1\todo_app.runtimeconfig.json
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\bin\Debug\netcoreapp3.1\todo_app.runtimeconfig.dev.json
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\bin\Debug\netcoreapp3.1\todo_app.dll
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\bin\Debug\netcoreapp3.1\todo_app.pdb
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.csproj.AssemblyReference.cache
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.AssemblyInfoInputs.cache
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.AssemblyInfo.cs
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.dll
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.pdb
+C:\Users\ahmet.kucukaydiner\Desktop\Ahmet\todo_app\obj\Debug\netcoreapp3.1\todo_app.genruntimeconfig.cache
